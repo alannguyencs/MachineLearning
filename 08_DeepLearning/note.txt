@@ -1,0 +1,4 @@
+To run ann.py, I have to install tensorflow by following way:
+Step 1: Download tensorflow-1.3.0rc2-py3-none-any.whl
+Step 2: press this command line in Machine Learning folder path:
+        sudo pip3 install --upgrade tensorflow-1.3.0rc2-py3-none-any.whl
